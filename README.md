@@ -83,8 +83,7 @@ Test the Trained Model
 ```bash
 python oculus/main.py
 ```
-2. Send real-time data through the unity package (oculus/unity/handtracking.unitypackage)
-- Select "Test Collect" Script
+2. Send real-time data through the unity package (oculus/unity/handtracking.unitypackage); Select "Test Collect" Script
 
 
 ## 5. Applications and Performance
