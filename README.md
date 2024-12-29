@@ -96,3 +96,5 @@ Learn more about the model and the game on https://www.modoogallery.online/studi
 - [Chaeri Kim](https://github.com/chaerinotcherry)
 - [Jaewon Zhang](https://github.com/silverstick393)
 - Developed with advice from professor **Heesun Park**
+
+This project is licensed under the terms of the MIT license.
