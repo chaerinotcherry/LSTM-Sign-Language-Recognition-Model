@@ -27,7 +27,7 @@ The primary file structure of the project is as follows:
 │   │    ├── main.py                     # Main script for processing
 │   │    └── model.py                    # LSTM model implementation
 │   ├── 📂 unity                         
-│   │    └── handtracking.unitypackage   # Package for collecting data and testing model on Onculus
+│   │    └── handtracking.unitypackage   # Package for collecting data and testing model with Onculus
 │   │
 ├── 📂 webcam                            # Recognition model for webcam
 │   ├── data_collection.py               # Script for collecting data
@@ -41,7 +41,7 @@ The primary file structure of the project is as follows:
 
 ## 4. Usage Instructions
 
-### 4.1 On Webcam
+### 4.1 Webcam
 Collect data
 ```bash
 python webcam/data_collection.py
@@ -57,7 +57,7 @@ Test the Trained Model
 python webcam/main.py
 ```
 
-### 4.2 On Oculus
+### 4.2 Oculus
 
 Collect data with the handtracking unity package (oculus/unity/handtracking.unitypackage)
 1. Turn on "Timer" script
