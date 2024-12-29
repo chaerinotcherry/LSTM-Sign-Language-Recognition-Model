@@ -6,7 +6,7 @@ The project aims to move beyond the use of VR controllers that rely on monotonou
 ## 2. Project Description
 In the initial stages, webcam was utilized as a starting point, with some features forked from https://github.com/dgovor/Sign-Language-Translator. These features were later expanded and refined to meet the project's objectives.
 
-To create a sign language recognition model for Oculus devices, we developed a Unity package to capture hand keypoint movements using the Oculus Quest 2. We also created a method to preprocess the data and developed a model training process to achieve optimal results, enabling real-time testing.
+To create a sign language recognition model for Oculus devices, we developed a Unity package to capture hand keypoint movements using the Oculus Quest 2. We also created a method to preprocess the data and developed a model training process to achieve optimal results and enabled real-time testing using the device.
 
 ### 2.2 Key Features
 - Data generation
